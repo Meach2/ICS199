@@ -1,0 +1,145 @@
+.login-container {
+  margin-top: 0%;
+  margin-bottom: 5%;
+}
+.login-form-2 {
+  padding: 0%;
+  background: #fff;
+  /*box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);*/
+}
+.login-form-2 h3 {
+  text-align: center;
+  color: #fff;
+}
+.login-container form {
+  padding: 0% 10% 10% 10%;
+}
+.btnSubmit {
+  width: 50%;
+  border-radius: 1rem;
+  padding: 1.5%;
+  border: none;
+  cursor: pointer;
+}
+.login-form-2 .btnSubmit {
+  font-weight: 600;
+  color: #fff;
+  background-color: #198754;
+}
+.login-form-2 .ForgetPwd {
+  color: #198754;
+  font-weight: 600;
+  text-decoration: none;
+  background-color: #090702;
+}
+.form-control,
+input[type="text"],
+textarea {
+  color: #fff;
+
+  background-color: #198754 !important;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: #fff;
+  background-color: #198754 !important;
+}
+
+body {
+  background-color: #090702 !important;
+  margin-bottom: 5%;
+}
+
+p {
+  color: white;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: white;
+}
+
+address {
+  color: white;
+}
+
+.card {
+  background-color: #212529;
+}
+
+a {
+  color: green;
+}
+
+#greenemail {
+  color: green !important;
+}
+
+.no-click :hover {
+  color: #fff;
+  background-color: #198754;
+  border-color: #198754;
+}
+
+.py-5 {
+  padding-top: 15px !important;
+  padding-bottom: 15px !important;
+}
+
+input[type="submit"] {
+  /*button on store page */
+  background-color: #198754;
+  color: #fff;
+  border-color: #fff;
+  border-radius: 10%;
+}
+
+.greenletters {
+  color: #fff;
+  background-color: #198754; /*Why are we adding another green to the page? Where does this apply? anchor text for link maybe?*/
+}
+
+.greenback {
+  color: #fff;
+  background-color: #198754; /*Why are we adding another green to the page? Where does this apply? */
+}
+select#Categories {
+  margin-left: -5px;
+}
+label.greenletters {
+  padding: 2px;
+  border-radius: 5px;
+  border-color: white;
+}
+
+.shrinkbutton {
+  width: 50px;
+  height: 50px;
+}
+
+.centeredText {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+}
+
+.submitCancelButtons {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.centerMe {
+  margin-right: 46%;
+  margin-left: 46%;
+}
+.card-title {
+  text-align: center;
+  border-bottom: 1px solid rgba(0,0,0,.125);
+  padding-bottom: 10px;
+}
